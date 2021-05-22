@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "ARRAY.C": "cpp",
+        "__split_buffer": "c",
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "vector": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
